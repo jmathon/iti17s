@@ -2,3 +2,4 @@ Cours ITI17S de Git
 --
 Chapitre 1
 Chapitre 2
+Chapitre 3
